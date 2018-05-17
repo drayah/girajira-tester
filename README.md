@@ -1,2 +1,2 @@
 # girajira-tester
-Repository to test [Girajira](https://github.com/oborba/girajira) webhook
+Repository to test [Girajira](https://github.com/oborba/girajira) webhook.
